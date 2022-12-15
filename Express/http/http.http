@@ -1,0 +1,12 @@
+GET http://localhost:8080/Users
+
+
+### 
+POST http://localhost:8080/Users
+
+{
+    "name":"Xusinboy",
+    "surname":"Abdurasulov",
+    "hasMarried":false,
+    "age":15
+}
